@@ -28,4 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
