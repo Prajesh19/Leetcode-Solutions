@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2502-sort-the-people](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
