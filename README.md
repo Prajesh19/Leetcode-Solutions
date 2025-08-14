@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2048-build-array-from-permutation](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0782-jewels-and-stones](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [2502-sort-the-people](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1970-sorting-the-sentence](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1970-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2502-sort-the-people) |
@@ -75,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
