@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1078-remove-outermost-parentheses](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1764-maximum-repeating-substring](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1764-maximum-repeating-substring) |
 | [1970-sorting-the-sentence](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1970-sorting-the-sentence) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2502-sort-the-people](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2502-sort-the-people) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [1764-maximum-repeating-substring](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1764-maximum-repeating-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## String Matching
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
