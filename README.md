@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+## Linked List
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
