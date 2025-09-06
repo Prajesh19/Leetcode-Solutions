@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2502-sort-the-people) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Dynamic Programming
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Simulation
 |  |
 | ------- |
