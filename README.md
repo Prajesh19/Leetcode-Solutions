@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0782-jewels-and-stones](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
