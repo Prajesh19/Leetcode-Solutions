@@ -175,4 +175,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
