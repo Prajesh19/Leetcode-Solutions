@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0406-queue-reconstruction-by-height](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [0941-sort-array-by-parity](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [0941-sort-array-by-parity](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1970-sorting-the-sentence](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1970-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2502-sort-the-people) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0941-sort-array-by-parity](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
