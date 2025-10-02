@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
