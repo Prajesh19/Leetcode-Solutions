@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [4008-restore-finishing-order](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/4008-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4008-restore-finishing-order](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/4008-restore-finishing-order) |
 ## String
 |  |
 | ------- |
