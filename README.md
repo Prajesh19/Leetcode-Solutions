@@ -214,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0112-path-sum) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
