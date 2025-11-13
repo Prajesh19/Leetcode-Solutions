@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1580-shuffle-the-array](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
