@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0349-intersection-of-two-arrays](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0349-intersection-of-two-arrays](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0782-jewels-and-stones](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1764-maximum-repeating-substring](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1764-maximum-repeating-substring) |
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -229,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
