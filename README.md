@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0139-word-break) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
