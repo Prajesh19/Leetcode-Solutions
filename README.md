@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [4008-restore-finishing-order](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/4008-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3925-concatenate-array-with-reverse](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
 | ------- |
