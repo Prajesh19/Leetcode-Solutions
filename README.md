@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0507-perfect-number) |
+| [0836-rectangle-overlap](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -258,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
