@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2502-sort-the-people](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0782-jewels-and-stones](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1160-letter-tile-possibilities](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0941-sort-array-by-parity](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [3794-reverse-string-prefix](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
@@ -265,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
