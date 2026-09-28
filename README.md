@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1764-maximum-repeating-substring](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1764-maximum-repeating-substring) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1970-sorting-the-sentence](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1970-sorting-the-sentence) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
