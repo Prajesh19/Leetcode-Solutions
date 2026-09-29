@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3838-weighted-word-mapping](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3794-reverse-string-prefix](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
+| [3838-weighted-word-mapping](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
