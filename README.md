@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [4008-restore-finishing-order](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/4008-restore-finishing-order) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Ordered Set
 |  |
 | ------- |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
