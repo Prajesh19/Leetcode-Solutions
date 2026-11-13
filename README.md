@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2502-sort-the-people](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3731-find-missing-elements](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3731-find-missing-elements](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -229,10 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Backtracking
 |  |
 | ------- |
