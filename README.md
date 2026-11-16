@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0406-queue-reconstruction-by-height](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0485-max-consecutive-ones](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0941-sort-array-by-parity](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0349-intersection-of-two-arrays](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0645-set-mismatch](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1160-letter-tile-possibilities](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [0645-set-mismatch](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0941-sort-array-by-parity](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0645-set-mismatch](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
