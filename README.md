@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0139-word-break](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0303-range-sum-query-immutable](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -337,6 +339,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
