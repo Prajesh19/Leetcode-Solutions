@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3838-weighted-word-mapping](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -353,4 +355,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
