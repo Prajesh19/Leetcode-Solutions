@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1652-defuse-the-bomb](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1929-concatenation-of-array](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -359,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+## Sliding Window
+|  |
+| ------- |
+| [1652-defuse-the-bomb](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
