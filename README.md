@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1764-maximum-repeating-substring](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1764-maximum-repeating-substring) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1970-sorting-the-sentence](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1970-sorting-the-sentence) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
 |  |
