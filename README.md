@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1970-sorting-the-sentence](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1970-sorting-the-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2502-sort-the-people](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2502-sort-the-people) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Ordered Set
 |  |
