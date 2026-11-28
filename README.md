@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0202-happy-number](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -391,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0148-sort-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Prajesh19/Leetcode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
